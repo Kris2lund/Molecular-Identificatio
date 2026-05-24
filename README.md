@@ -3,7 +3,7 @@
 AI-assisted molecular structure generation using Large Language Models and DFT optimization.
 
 ## Overview
-This project investigates whether LLMs can generate molecular structures usable as initial guesses for DFT calculations.
+This project investigates whether LLMs can generate molecular structures usable as initial guesses for DFT calculations. And if these generated molecules have the same properties of the real molecule. An initial step toward developing AI-assisted methods for materials discovery
 
 The generated structures are compared to PubChem reference structures using:
 - RMSD
